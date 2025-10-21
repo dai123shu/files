@@ -1,7 +1,7 @@
 let data = {
     "21st Oct 2025 (Day 1)": {
         "exercise": {
-            "situps": "100",
+            "situps": "10",
             "kicking": "2 minutes",
             "pushups": "10+10",
             "weights": "50 per hand",
